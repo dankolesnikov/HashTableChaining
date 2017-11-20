@@ -1,5 +1,5 @@
 # Hash Table (Closed Addressing) 
-> Java implementation of a Hash Table data structure utilizing chaining(closed addressing) with a single linked list as its colission resolution.
+> Java implementation of a Hash Table data structure utilizing chaining(closed addressing) with a single linked list as its collision resolution.
 
 ![](header.png)
 
