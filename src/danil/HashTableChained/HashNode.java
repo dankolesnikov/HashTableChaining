@@ -1,4 +1,4 @@
-package danil.HashTable;
+package danil.HashTableChained;
 
 
 /**

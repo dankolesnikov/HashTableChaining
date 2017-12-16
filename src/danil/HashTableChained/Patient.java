@@ -1,4 +1,4 @@
-package danil.HashTable;
+package danil.HashTableChained;
 
 /**
  * @author Danil Kolesnikov danil.kolesnikov@sjsu.edu
